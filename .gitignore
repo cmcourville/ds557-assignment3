@@ -41,5 +41,8 @@ output/
 *.log
 logs/
 
-# PDF output (generated submission)
-*_submission.pdf
+# PDF output
+*.pdf
+
+# Attack results
+results/
